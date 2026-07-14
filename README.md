@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
