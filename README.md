@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
