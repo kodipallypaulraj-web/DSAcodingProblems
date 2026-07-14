@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,9 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
