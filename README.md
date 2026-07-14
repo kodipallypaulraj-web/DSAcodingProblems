@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
