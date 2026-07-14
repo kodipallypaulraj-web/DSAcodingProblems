@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
