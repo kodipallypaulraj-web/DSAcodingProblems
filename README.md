@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
