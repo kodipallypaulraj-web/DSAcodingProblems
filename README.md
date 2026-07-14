@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
