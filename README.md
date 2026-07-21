@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
