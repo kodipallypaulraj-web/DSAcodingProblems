@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
