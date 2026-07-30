@@ -116,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
