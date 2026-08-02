@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0371-sum-of-two-integers) |
 ## Queue
