@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Design
 |  |
 | ------- |
