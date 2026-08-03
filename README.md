@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
