@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0119-pascals-triangle-ii) |
+| [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0700-search-in-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
