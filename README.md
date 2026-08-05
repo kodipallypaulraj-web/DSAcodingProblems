@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0709-to-lower-case](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
