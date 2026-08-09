@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
