@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
