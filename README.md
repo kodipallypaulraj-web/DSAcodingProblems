@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
