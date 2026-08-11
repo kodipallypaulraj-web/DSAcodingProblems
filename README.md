@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0260-single-number-iii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 ## String
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
