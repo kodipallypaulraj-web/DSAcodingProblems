@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -312,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
