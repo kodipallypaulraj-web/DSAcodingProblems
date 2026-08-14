@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
