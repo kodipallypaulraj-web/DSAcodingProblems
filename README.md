@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0633-sum-of-square-numbers) |
 | [2235-add-two-integers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
