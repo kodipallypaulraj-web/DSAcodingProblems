@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0977-squares-of-a-sorted-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0709-to-lower-case) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
