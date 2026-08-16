@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2390-removing-stars-from-a-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
