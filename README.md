@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0525-contiguous-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2367-number-of-arithmetic-triplets](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2540-minimum-common-value](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
