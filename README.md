@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0414-third-maximum-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0389-find-the-difference) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -366,4 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kodipallypaulraj-web/DSAcodingProblems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
